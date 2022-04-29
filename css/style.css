@@ -72,7 +72,7 @@ nav{
    
 }
 body{
-    height: 450vh;
+    height: auto;
     background: linear-gradient(rgb(65, 72, 108),rgb(89, 59, 104));
     align-items: center;
     justify-content: center;
@@ -101,7 +101,7 @@ body h1{
     opacity: 0;
     position: absolute;
    
-    top: 180px;
+    top: 170px;
     width: 100%;
     height: 72vh;
     transition:  opacity 1s;
@@ -280,8 +280,8 @@ strong:hover{
 
 
 .rotape{
-    position: absolute;
-    top: 450vh;
+    position: relative;
+    top: 500px;
     height: 100px;
     display: flex;
     justify-content: space-between;
