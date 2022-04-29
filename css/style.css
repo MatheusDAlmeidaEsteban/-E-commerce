@@ -280,8 +280,8 @@ strong:hover{
 
 
 .rotape{
-    position: relative;
-    top: 500px;
+    position: absolute;
+    top: 450vh;
     height: 100px;
     display: flex;
     justify-content: space-between;
