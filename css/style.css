@@ -100,8 +100,8 @@ body h1{
 .slide img{
     opacity: 0;
     position: absolute;
-    top:30px
-    top: 150px;
+   
+    top: 180px;
     width: 100%;
     height: 72vh;
     transition:  opacity 1s;
