@@ -1,0 +1,27 @@
+
+*{
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+nav{
+    width: 100%;
+    height: 15vh;
+    background: linear-gradient(rgb(121, 96, 96),rgb(65, 72, 108));
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.logo img{
+    width: 9vw;
+    height: 10vh;
+    margin: 5%;
+    
+}
+.Login button{
+    width: 7vw;
+    height: 7vh;
+    margin: 5%;
+   
+}
