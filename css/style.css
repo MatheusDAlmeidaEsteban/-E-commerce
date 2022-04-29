@@ -101,7 +101,7 @@ body h1{
     opacity: 0;
     position: absolute;
    
-    top: 180px;
+    top: 170px;
     width: 100%;
     height: 72vh;
     transition:  opacity 1s;
