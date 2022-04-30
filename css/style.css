@@ -169,8 +169,15 @@ strong:hover{
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-   
+    background:linear-gradient(rgb(89, 59, 104),rgb(65, 72, 108));
 
+}
+ .fal{
+    font-family: 'Water Brush', cursive;
+    font-size: 2.5rem;
+    color: #fff;
+    position: relative;
+    top: 500px;
 }
 .fale{
     display: flex;
@@ -192,7 +199,7 @@ strong:hover{
     margin: 10px 0;
     padding: 15px;
     font-size: 1.2rem;
-    background: linear-gradient(rgb(65, 72, 108),rgb(89, 59, 104));
+    background: linear-gradient(rgb(89, 59, 104),rgb(65, 72, 108));
     border-radius: 15px;
     opacity: 95%;
 }
@@ -265,7 +272,7 @@ strong:hover{
     justify-content: center;
     font-size: 25px;
     border-radius: 10px;
-    background: linear-gradient(rgb(65, 72, 108),rgb(89, 59, 104));
+    background: linear-gradient(rgb(89, 59, 104),rgb(65, 72, 108));
     color: #ffff;
     padding: 10px;
     transition: .5s;
@@ -296,4 +303,7 @@ strong:hover{
     height: 50px;
     border-radius: 10px;
     margin: 0 10px;
+}
+.rotape p{
+    font-size: 1.5rem;
 }
